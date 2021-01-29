@@ -17,7 +17,8 @@
 	<tr>
 		<td>Nama</td>
 		<td>:	Fitri Dewi Ramadani</td>
-		<td rowspan="10" align="center"><img src = "‪D:\Tugas\gambar.jpg‪‪" width="210px" height="300px"></td>
+		<td rowspan="10" align="center"><img src="foto1.jpg" width="210" height="313">
+		</td>
 	</tr>
 
 	<tr>
